@@ -1,0 +1,16 @@
+{
+  "name": "htmlfile",
+  "version": "0.0.1",
+  "description": "testing the forwarding of html to client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai nikhil",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "mongodb": "^2.1.4",
+    "mongoose": "^4.3.6"
+  }
+}
